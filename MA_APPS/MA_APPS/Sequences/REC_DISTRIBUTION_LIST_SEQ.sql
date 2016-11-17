@@ -1,0 +1,1 @@
+CREATE SEQUENCE ma_apps.rec_distribution_list_seq;
